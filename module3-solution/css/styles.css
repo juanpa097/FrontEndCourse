@@ -1,0 +1,37 @@
+.text-section {
+  height: 1000px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  background-color: #cccccc;
+  margin-bottom: 50px;
+}
+
+h1 {
+  padding-bottom: 50px;
+}
+
+#nav-tittle {
+  color: #000;
+}
+
+#nav-list a:hover{
+  background-color: #fff;
+}
+
+#nav-list a {
+  color: #000;
+}
+
+#header-nav {
+  background-color: #bfbfbf;
+  border-radius: 0;
+  border: 0;
+}
+
+#section-tittle {
+  display: block;
+  font-size: 1.8em;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
